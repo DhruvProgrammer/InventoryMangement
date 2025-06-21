@@ -1,0 +1,13 @@
+C:\Users\MR.PC\Desktop\inven\obj\Debug\netcoreapp3.1\inven.csprojAssemblyReference.cache
+C:\Users\MR.PC\Desktop\inven\obj\Debug\netcoreapp3.1\inven.AssemblyInfoInputs.cache
+C:\Users\MR.PC\Desktop\inven\obj\Debug\netcoreapp3.1\inven.AssemblyInfo.cs
+C:\Users\MR.PC\Desktop\inven\obj\Debug\netcoreapp3.1\inven.csproj.CoreCompileInputs.cache
+C:\Users\MR.PC\Desktop\inven\bin\Debug\netcoreapp3.1\inven.exe
+C:\Users\MR.PC\Desktop\inven\bin\Debug\netcoreapp3.1\inven.deps.json
+C:\Users\MR.PC\Desktop\inven\bin\Debug\netcoreapp3.1\inven.runtimeconfig.json
+C:\Users\MR.PC\Desktop\inven\bin\Debug\netcoreapp3.1\inven.runtimeconfig.dev.json
+C:\Users\MR.PC\Desktop\inven\bin\Debug\netcoreapp3.1\inven.dll
+C:\Users\MR.PC\Desktop\inven\bin\Debug\netcoreapp3.1\inven.pdb
+C:\Users\MR.PC\Desktop\inven\obj\Debug\netcoreapp3.1\inven.dll
+C:\Users\MR.PC\Desktop\inven\obj\Debug\netcoreapp3.1\inven.pdb
+C:\Users\MR.PC\Desktop\inven\obj\Debug\netcoreapp3.1\inven.genruntimeconfig.cache
