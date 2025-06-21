@@ -2,7 +2,6 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Inventory Management System - C#</title>
 </head>
 <body>
   <h1>📦 Inventory Management System (C#)</h1>
